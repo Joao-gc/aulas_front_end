@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.barOffer {
+    position: absolute;
+    width: 1024px;
+    height: 20px;
+    background-color: #222222;
+    top: 0;
+    color: #FFFFFF
+}
+
+.header {
+    display: flex;
+
+}
+
+.amarelo {
+    width: 1024px;
+    height: 62px;
+    background-color: #F0a83e;
+    left: calc(50% - 1024px/2);
+    top: 20px;
+    position: absolute;
+}
+
+.logo {
+    padding: 17px 241.97px 18px 40px;
+}
+
+.pata {
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    top: 44px;
+}
+
+
+
+.content {
+    position: absolute;
+    width: 1025px;
+    height: 409px;
+    left: calc(50% - 1025px/2 + 0.5px);
+    top: 81px;
+
+    background-image: url(/aula12/img/bowl-and-pet-daities-on-green-background\ 1.png);
+    display: flex
+}
+
+.container2 {
+    position: absolute;
+    width: 365px;
+    height: 54px;
+    left: 648px;
+    top: 237px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+
+}
+
+.container2 p {
+    color: #3C2313;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    width: 308px;
+    height: 35px;
+    left: 676px;
+    top: 246px;
+}
+
+.container3 {
+    position: absolute;
+    height: 54px;
+    width: 365px;
+    left: 648px;
+    top: 237px;
+    border-radius: 5px;
+
+}
+
+.container3 p {
+    width: 202px;
+    height: 19px;
+    left: 734px;
+    top: 303px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #3C2313;
+}
+
+
+.container4 {
+    position: absolute;
+    width: 141px;
+    height: 49px;
+    left: 767px;
+    top: 334px;
+    background: #F0a83e;
+    border-radius: 5px;
+
+}
+
+.container4 p {
+    width: 107px;
+    height: 19px;
+    left: 784px;
+    top: 349px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 15 17px;
+}
+
+.products {
+    position: absolute;
+    width: 834px;
+    height: 522px;
+    left: 95px;
+    top: 510px;
+}
+
+#paw {
+
+    width: 67px;
+    height: 71px;
+    left: 479px;
+    top: 510px;
+    background-image: url(/aula12/img/pawprint\ 1.png);
+}
+
+.products p1 {
+
+    width: 385px;
+    height: 47px;
+    left: 309px;
+    top: 586px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #3C2313;
+
+}
+
+.products link {
+
+    width: 267px;
+    height: 18px;
+    left: 380px;
+    top: 653px;
+}
+
+.cards {
+
+    width: 834px;
+    height: 312px;
+    left: 95px;
+    top: 720px;
+    background-image: url(/aula12/img/churrasquito.png);
+    background-image: url(/aula12/img/comedero.png);
+    background-image: url(/aula12/img/Huesito.png);
+}
